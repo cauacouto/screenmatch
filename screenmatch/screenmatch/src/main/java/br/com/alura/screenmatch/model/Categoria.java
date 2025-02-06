@@ -11,7 +11,9 @@ public enum Categoria {
 
     ROMANCE ("romance"),
 
-    DRAMA("drama");
+    DRAMA("drama"),
+
+    Desconhecida("Desconhecida");
 
     private String categoriaOmd;
 
