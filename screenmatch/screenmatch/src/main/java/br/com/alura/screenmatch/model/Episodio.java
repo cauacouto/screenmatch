@@ -19,7 +19,10 @@ public class Episodio {
     private LocalDate dataLancamento;
 
     @ManyToOne
-    private Serie serie;
+    private   Serie serie;
+
+    public Episodio() {}
+
 
     public Episodio(Integer numeroTemporada, DadosEpisodio dadosEpisodio) {
         this.temporada = numeroTemporada;
@@ -37,9 +40,7 @@ public class Episodio {
         }
     }
 
-    public Episodio() {
 
-    }
 
     public Long getId() {
         return id;
@@ -101,10 +102,10 @@ public class Episodio {
     @Override
     public String toString() {
         return "temporada=" + temporada +
-                ", titulo='" + titulo + '\'' +
-                ", numeroDoEpisodio=" + numeroDoEpisodio +
-                ", avaliacao=" + avaliacao +
-                ", dataLancamento=" + dataLancamento ;
+               ", titulo='" + titulo + '\'' +
+               ", numeroDoEpisodio=" + numeroDoEpisodio +
+               ", avaliacao=" + avaliacao +
+               ", dataLancamento=" + dataLancamento ;
 
     }
 }
