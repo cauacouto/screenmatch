@@ -17,19 +17,19 @@ Ao clicar em um filme ou série, o usuário pode ver informações detalhadas, c
 Tecnologias Utilizadas
 Backend
 Linguagem: Java.
-
+--
 Framework: Spring Boot.
-
+--
 Banco de Dados: PostgreSQL.
-
+--
 Ferramentas: Maven, JPA (Hibernate), REST API.
 
 Frontend
 Linguagens: JavaScript, HTML, CSS.
-
+--
 Outras Ferramentas
 Controle de Versão: Git.
-
+--
 Contato
 Nome: [cauã]
 
