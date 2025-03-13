@@ -1,5 +1,9 @@
 ScreenMatch 🎬
-Bem-vindo ao ScreenMatch, uma aplicação que exibe filmes e séries cadastrados em um banco de dados PostgreSQL, com destaque para os Top 5 e os Lançamentos mais recentes! 🍿
+Bem-vindo ao ScreenMatch, uma aplicação que exibe filmes e séries cadastrados em um banco de dados  com destaque para os Top 5 e os Lançamentos mais recentes! 🍿
+
+![Captura de tela 2025-03-06 183245](https://github.com/user-attachments/assets/c8c6c06b-3218-4ea9-a23f-4ca5b95c5fa1)
+
+
 --
 Funcionalidades Principais
 Top 5 Filmes/Séries:
