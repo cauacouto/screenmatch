@@ -1,6 +1,8 @@
 ScreenMatch 🎬
 Bem-vindo ao ScreenMatch, uma aplicação que exibe filmes e séries cadastrados em um banco de dados  com destaque para os Top 5 e os Lançamentos mais recentes! 🍿
 
+![Java](https://img.shields.io/badge/Java-17-orange)     ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.4-brightgreen)
+
 ![Captura de tela 2025-03-06 183245](https://github.com/user-attachments/assets/c8c6c06b-3218-4ea9-a23f-4ca5b95c5fa1)
 
 
